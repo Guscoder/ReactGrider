@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "IanStream",
+      "description": "nice",
+      "id": 1
+    },
+    {
+      "title": "ClaraStream",
+      "description": "nice",
+      "id": 2
+    },
+    {
+      "title": "I created this",
+      "description": "Made by me",
+      "userId": "105724807102257078088",
+      "id": 3
+    }
+  ]
+}
