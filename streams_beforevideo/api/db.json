@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "IanStream",
+      "description": "nice",
+      "id": 1
+    },
+    {
+      "title": "ClaraStream",
+      "description": "nice",
+      "id": 2
+    },
+    {
+      "title": "new one",
+      "description": "new fixe!",
+      "id": 4
+    }
+  ]
+}
